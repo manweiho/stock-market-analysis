@@ -18,3 +18,5 @@ Volatility and trend analysis
 
 Conclusion
 Summary of investment recommendation based on observed performance trends.
+
+Project Link: stock-market-analysis.ipynb

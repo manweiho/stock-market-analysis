@@ -19,4 +19,4 @@ Volatility and trend analysis
 Conclusion
 Summary of investment recommendation based on observed performance trends.
 
-Project Link: stock-market-analysis.ipynb
+Project Link: [stock-market-analysis.ipynb](https://github.com/manweiho/stock-market-analysis/blob/main/stock-market-analysis.ipynb)
